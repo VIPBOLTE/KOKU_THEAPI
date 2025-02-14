@@ -1,7 +1,7 @@
 ##### Installation
 
 ```sh
-pip install git+https://github.com/TheChampu/TheAPI@main
+pip install git+https://github.com/VIPBOLTE/KOKU_THEAPI@main
 ```
 
 ---
