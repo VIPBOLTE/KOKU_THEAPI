@@ -24,10 +24,10 @@ dependencies = [
 ]
 
 [project.urls]
-Issues = "https://github.com/Vivekkumar-IN/TheApi/issues"
-Source = "https://github.com/Vivekkumar-IN/TheApi"
-Community = "https://t.me/TheTeamVivek"
-Documentation = "https://vivekkumar-in.github.io/TheApi/"
+Issues = "https://github.com/VIPBOLTE/KOKU_THEAPI/issues"
+Source = "https://github.com/VIPBOLTE/KOKU_THEAPI"
+Community = "https://t.me/goku_groupz"
+
 
 [build-system]
 requires = ["setuptools>=42", "wheel"]
